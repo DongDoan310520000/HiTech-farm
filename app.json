@@ -1,6 +1,8 @@
 {
   "expo": {
-    "name": "NatureSound",
+    "name": "Nature Sound",
+    "privacy": "public",
+    "description": "IoT Solutions",
     "slug": "NatureSound",
     "version": "1.0.0",
     "orientation": "portrait",

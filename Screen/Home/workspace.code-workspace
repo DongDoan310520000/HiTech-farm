@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\app1"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Work\\Flutter"
+		}
+	],
+	"settings": {
+		"cSpell.words": []
+	}
+}
